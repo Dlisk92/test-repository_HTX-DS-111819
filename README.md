@@ -1,6 +1,6 @@
 # Test Repository
 
-Gimme a test! (TEST)
+Gimme a test! (TEST) HELL YA MOFO
 
 ![Test gif from Giphy](http://giphygifs.s3.amazonaws.com/media/gw3IWyGkC0rsazTi/giphy.gif)
 
@@ -15,3 +15,6 @@ Gimme a test! (TEST)
 ## Other To-Dos Today:
 
 - Initialize a local git repository, then add it to GitHub
+- So now I changed some crap
+- REEEEEEEEEE
+
